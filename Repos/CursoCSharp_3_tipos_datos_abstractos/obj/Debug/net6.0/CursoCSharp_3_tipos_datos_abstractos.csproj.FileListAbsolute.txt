@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_tipos_datos_abstractos\bin\Debug\net6.0\CursoCSharp_3_tipos_datos_abstractos.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_tipos_datos_abstractos\bin\Debug\net6.0\CursoCSharp_3_tipos_datos_abstractos.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_tipos_datos_abstractos\bin\Debug\net6.0\CursoCSharp_3_tipos_datos_abstractos.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_tipos_datos_abstractos\bin\Debug\net6.0\CursoCSharp_3_tipos_datos_abstractos.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_tipos_datos_abstractos\bin\Debug\net6.0\CursoCSharp_3_tipos_datos_abstractos.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_tipos_datos_abstractos\obj\Debug\net6.0\CursoCSharp_3_tipos_datos_abstractos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_tipos_datos_abstractos\obj\Debug\net6.0\CursoCSharp_3_tipos_datos_abstractos.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_tipos_datos_abstractos\obj\Debug\net6.0\CursoCSharp_3_tipos_datos_abstractos.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_tipos_datos_abstractos\obj\Debug\net6.0\CursoCSharp_3_tipos_datos_abstractos.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_tipos_datos_abstractos\obj\Debug\net6.0\CursoCSharp_3_tipos_datos_abstractos.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_tipos_datos_abstractos\obj\Debug\net6.0\refint\CursoCSharp_3_tipos_datos_abstractos.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_tipos_datos_abstractos\obj\Debug\net6.0\CursoCSharp_3_tipos_datos_abstractos.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_tipos_datos_abstractos\obj\Debug\net6.0\CursoCSharp_3_tipos_datos_abstractos.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_tipos_datos_abstractos\obj\Debug\net6.0\ref\CursoCSharp_3_tipos_datos_abstractos.dll

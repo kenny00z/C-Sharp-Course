@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_nomenclatura\bin\Debug\net6.0\CursoCSharp_03_nomenclatura.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_nomenclatura\bin\Debug\net6.0\CursoCSharp_03_nomenclatura.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_nomenclatura\bin\Debug\net6.0\CursoCSharp_03_nomenclatura.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_nomenclatura\bin\Debug\net6.0\CursoCSharp_03_nomenclatura.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_nomenclatura\bin\Debug\net6.0\CursoCSharp_03_nomenclatura.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_nomenclatura\obj\Debug\net6.0\CursoCSharp_03_nomenclatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_nomenclatura\obj\Debug\net6.0\CursoCSharp_03_nomenclatura.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_nomenclatura\obj\Debug\net6.0\CursoCSharp_03_nomenclatura.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_nomenclatura\obj\Debug\net6.0\CursoCSharp_03_nomenclatura.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_nomenclatura\obj\Debug\net6.0\CursoCSharp_03_nomenclatura.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_nomenclatura\obj\Debug\net6.0\refint\CursoCSharp_03_nomenclatura.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_nomenclatura\obj\Debug\net6.0\CursoCSharp_03_nomenclatura.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_nomenclatura\obj\Debug\net6.0\CursoCSharp_03_nomenclatura.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_nomenclatura\obj\Debug\net6.0\ref\CursoCSharp_03_nomenclatura.dll

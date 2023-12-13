@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_campos_propiedades\bin\Debug\net6.0\CursoCSharp_05_campos_propiedades.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_campos_propiedades\bin\Debug\net6.0\CursoCSharp_05_campos_propiedades.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_campos_propiedades\bin\Debug\net6.0\CursoCSharp_05_campos_propiedades.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_campos_propiedades\bin\Debug\net6.0\CursoCSharp_05_campos_propiedades.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_campos_propiedades\bin\Debug\net6.0\CursoCSharp_05_campos_propiedades.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_campos_propiedades\obj\Debug\net6.0\CursoCSharp_05_campos_propiedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_campos_propiedades\obj\Debug\net6.0\CursoCSharp_05_campos_propiedades.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_campos_propiedades\obj\Debug\net6.0\CursoCSharp_05_campos_propiedades.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_campos_propiedades\obj\Debug\net6.0\CursoCSharp_05_campos_propiedades.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_campos_propiedades\obj\Debug\net6.0\CursoCSharp_05_campos_propiedades.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_campos_propiedades\obj\Debug\net6.0\refint\CursoCSharp_05_campos_propiedades.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_campos_propiedades\obj\Debug\net6.0\CursoCSharp_05_campos_propiedades.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_campos_propiedades\obj\Debug\net6.0\CursoCSharp_05_campos_propiedades.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_campos_propiedades\obj\Debug\net6.0\ref\CursoCSharp_05_campos_propiedades.dll

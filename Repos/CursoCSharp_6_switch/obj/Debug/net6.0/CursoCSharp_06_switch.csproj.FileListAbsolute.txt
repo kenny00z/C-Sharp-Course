@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_6_switch\bin\Debug\net6.0\CursoCSharp_06_switch.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_6_switch\bin\Debug\net6.0\CursoCSharp_06_switch.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_6_switch\bin\Debug\net6.0\CursoCSharp_06_switch.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_6_switch\bin\Debug\net6.0\CursoCSharp_06_switch.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_6_switch\bin\Debug\net6.0\CursoCSharp_06_switch.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_6_switch\obj\Debug\net6.0\CursoCSharp_06_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_6_switch\obj\Debug\net6.0\CursoCSharp_06_switch.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_6_switch\obj\Debug\net6.0\CursoCSharp_06_switch.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_6_switch\obj\Debug\net6.0\CursoCSharp_06_switch.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_6_switch\obj\Debug\net6.0\CursoCSharp_06_switch.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_6_switch\obj\Debug\net6.0\refint\CursoCSharp_06_switch.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_6_switch\obj\Debug\net6.0\CursoCSharp_06_switch.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_6_switch\obj\Debug\net6.0\CursoCSharp_06_switch.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_6_switch\obj\Debug\net6.0\ref\CursoCSharp_06_switch.dll

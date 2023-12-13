@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_interfaz_IDisposable\bin\Debug\net6.0\CursoCSharp_2_interfaz_IDisposable.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_interfaz_IDisposable\bin\Debug\net6.0\CursoCSharp_2_interfaz_IDisposable.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_interfaz_IDisposable\bin\Debug\net6.0\CursoCSharp_2_interfaz_IDisposable.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_interfaz_IDisposable\bin\Debug\net6.0\CursoCSharp_2_interfaz_IDisposable.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_interfaz_IDisposable\bin\Debug\net6.0\CursoCSharp_2_interfaz_IDisposable.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_interfaz_IDisposable\obj\Debug\net6.0\CursoCSharp_2_interfaz_IDisposable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_interfaz_IDisposable\obj\Debug\net6.0\CursoCSharp_2_interfaz_IDisposable.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_interfaz_IDisposable\obj\Debug\net6.0\CursoCSharp_2_interfaz_IDisposable.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_interfaz_IDisposable\obj\Debug\net6.0\CursoCSharp_2_interfaz_IDisposable.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_interfaz_IDisposable\obj\Debug\net6.0\CursoCSharp_2_interfaz_IDisposable.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_interfaz_IDisposable\obj\Debug\net6.0\refint\CursoCSharp_2_interfaz_IDisposable.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_interfaz_IDisposable\obj\Debug\net6.0\CursoCSharp_2_interfaz_IDisposable.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_interfaz_IDisposable\obj\Debug\net6.0\CursoCSharp_2_interfaz_IDisposable.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_interfaz_IDisposable\obj\Debug\net6.0\ref\CursoCSharp_2_interfaz_IDisposable.dll

@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_7_instrucion_using\bin\Debug\net6.0\CursoCSharp_07_instrucion_using.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_7_instrucion_using\bin\Debug\net6.0\CursoCSharp_07_instrucion_using.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_7_instrucion_using\bin\Debug\net6.0\CursoCSharp_07_instrucion_using.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_7_instrucion_using\bin\Debug\net6.0\CursoCSharp_07_instrucion_using.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_7_instrucion_using\bin\Debug\net6.0\CursoCSharp_07_instrucion_using.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_7_instrucion_using\obj\Debug\net6.0\CursoCSharp_07_instrucion_using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_7_instrucion_using\obj\Debug\net6.0\CursoCSharp_07_instrucion_using.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_7_instrucion_using\obj\Debug\net6.0\CursoCSharp_07_instrucion_using.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_7_instrucion_using\obj\Debug\net6.0\CursoCSharp_07_instrucion_using.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_7_instrucion_using\obj\Debug\net6.0\CursoCSharp_07_instrucion_using.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_7_instrucion_using\obj\Debug\net6.0\refint\CursoCSharp_07_instrucion_using.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_7_instrucion_using\obj\Debug\net6.0\CursoCSharp_07_instrucion_using.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_7_instrucion_using\obj\Debug\net6.0\CursoCSharp_07_instrucion_using.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_7_instrucion_using\obj\Debug\net6.0\ref\CursoCSharp_07_instrucion_using.dll

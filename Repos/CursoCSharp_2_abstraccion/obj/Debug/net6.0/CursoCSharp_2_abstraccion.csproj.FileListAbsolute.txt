@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_abstraccion\bin\Debug\net6.0\CursoCSharp_2_abstraccion.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_abstraccion\bin\Debug\net6.0\CursoCSharp_2_abstraccion.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_abstraccion\bin\Debug\net6.0\CursoCSharp_2_abstraccion.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_abstraccion\bin\Debug\net6.0\CursoCSharp_2_abstraccion.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_abstraccion\bin\Debug\net6.0\CursoCSharp_2_abstraccion.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_abstraccion\obj\Debug\net6.0\CursoCSharp_2_abstraccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_abstraccion\obj\Debug\net6.0\CursoCSharp_2_abstraccion.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_abstraccion\obj\Debug\net6.0\CursoCSharp_2_abstraccion.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_abstraccion\obj\Debug\net6.0\CursoCSharp_2_abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_abstraccion\obj\Debug\net6.0\CursoCSharp_2_abstraccion.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_abstraccion\obj\Debug\net6.0\refint\CursoCSharp_2_abstraccion.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_abstraccion\obj\Debug\net6.0\CursoCSharp_2_abstraccion.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_abstraccion\obj\Debug\net6.0\CursoCSharp_2_abstraccion.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_2_abstraccion\obj\Debug\net6.0\ref\CursoCSharp_2_abstraccion.dll

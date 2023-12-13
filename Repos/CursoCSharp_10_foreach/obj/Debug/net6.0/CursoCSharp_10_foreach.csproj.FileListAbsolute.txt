@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_10_foreach\bin\Debug\net6.0\CursoCSharp_10_foreach.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_10_foreach\bin\Debug\net6.0\CursoCSharp_10_foreach.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_10_foreach\bin\Debug\net6.0\CursoCSharp_10_foreach.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_10_foreach\bin\Debug\net6.0\CursoCSharp_10_foreach.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_10_foreach\bin\Debug\net6.0\CursoCSharp_10_foreach.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_10_foreach\obj\Debug\net6.0\CursoCSharp_10_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_10_foreach\obj\Debug\net6.0\CursoCSharp_10_foreach.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_10_foreach\obj\Debug\net6.0\CursoCSharp_10_foreach.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_10_foreach\obj\Debug\net6.0\CursoCSharp_10_foreach.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_10_foreach\obj\Debug\net6.0\CursoCSharp_10_foreach.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_10_foreach\obj\Debug\net6.0\refint\CursoCSharp_10_foreach.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_10_foreach\obj\Debug\net6.0\CursoCSharp_10_foreach.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_10_foreach\obj\Debug\net6.0\CursoCSharp_10_foreach.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_10_foreach\obj\Debug\net6.0\ref\CursoCSharp_10_foreach.dll

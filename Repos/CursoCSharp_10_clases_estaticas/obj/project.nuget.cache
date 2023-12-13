@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "e6fv5dbsqqj/M/O6zCmX3j67ovqoS4F1Cm+ZAHW9bnemgsfKDsKVrHfCNY11afOfalhMjIpSNEg9vXcD60dLnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kenny\\Desktop\\CURSO C#\\Repos\\CursoCSharp_10_clases_estaticas\\CursoCSharp_10_clases_estaticas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kenny\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\kenny\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\kenny\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\kenny\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\kenny\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\kenny\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\kenny\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

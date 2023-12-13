@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CursoCsharp_3_diferencias_interfaces_clasesAbstractas/1.0.0": {
+        "runtime": {
+          "CursoCsharp_3_diferencias_interfaces_clasesAbstractas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoCsharp_3_diferencias_interfaces_clasesAbstractas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

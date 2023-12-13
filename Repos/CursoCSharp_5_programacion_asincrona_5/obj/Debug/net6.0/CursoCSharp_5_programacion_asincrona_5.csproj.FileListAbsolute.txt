@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_programacion_asincrona_5\bin\Debug\net6.0\CursoCSharp_5_programacion_asincrona_5.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_programacion_asincrona_5\bin\Debug\net6.0\CursoCSharp_5_programacion_asincrona_5.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_programacion_asincrona_5\bin\Debug\net6.0\CursoCSharp_5_programacion_asincrona_5.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_programacion_asincrona_5\bin\Debug\net6.0\CursoCSharp_5_programacion_asincrona_5.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_programacion_asincrona_5\bin\Debug\net6.0\CursoCSharp_5_programacion_asincrona_5.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_programacion_asincrona_5\obj\Debug\net6.0\CursoCSharp_5_programacion_asincrona_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_programacion_asincrona_5\obj\Debug\net6.0\CursoCSharp_5_programacion_asincrona_5.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_programacion_asincrona_5\obj\Debug\net6.0\CursoCSharp_5_programacion_asincrona_5.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_programacion_asincrona_5\obj\Debug\net6.0\CursoCSharp_5_programacion_asincrona_5.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_programacion_asincrona_5\obj\Debug\net6.0\CursoCSharp_5_programacion_asincrona_5.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_programacion_asincrona_5\obj\Debug\net6.0\refint\CursoCSharp_5_programacion_asincrona_5.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_programacion_asincrona_5\obj\Debug\net6.0\CursoCSharp_5_programacion_asincrona_5.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_programacion_asincrona_5\obj\Debug\net6.0\CursoCSharp_5_programacion_asincrona_5.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_programacion_asincrona_5\obj\Debug\net6.0\ref\CursoCSharp_5_programacion_asincrona_5.dll

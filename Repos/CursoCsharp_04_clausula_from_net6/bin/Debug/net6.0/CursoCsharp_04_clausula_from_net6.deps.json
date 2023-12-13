@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CursoCsharp_04_clausula_from_net6/1.0.0": {
+        "dependencies": {
+          "CursoCSharp_02_introduccion_consultas_linq_net6": "1.0.0"
+        },
+        "runtime": {
+          "CursoCsharp_04_clausula_from_net6.dll": {}
+        }
+      },
+      "CursoCSharp_02_introduccion_consultas_linq_net6/1.0.0": {
+        "runtime": {
+          "CursoCSharp_02_introduccion_consultas_linq_net6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoCsharp_04_clausula_from_net6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CursoCSharp_02_introduccion_consultas_linq_net6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

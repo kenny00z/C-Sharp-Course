@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_constantes\bin\Debug\net6.0\CursoCSharp_04_constantes.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_constantes\bin\Debug\net6.0\CursoCSharp_04_constantes.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_constantes\bin\Debug\net6.0\CursoCSharp_04_constantes.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_constantes\bin\Debug\net6.0\CursoCSharp_04_constantes.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_constantes\bin\Debug\net6.0\CursoCSharp_04_constantes.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_constantes\obj\Debug\net6.0\CursoCSharp_04_constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_constantes\obj\Debug\net6.0\CursoCSharp_04_constantes.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_constantes\obj\Debug\net6.0\CursoCSharp_04_constantes.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_constantes\obj\Debug\net6.0\CursoCSharp_04_constantes.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_constantes\obj\Debug\net6.0\CursoCSharp_04_constantes.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_constantes\obj\Debug\net6.0\refint\CursoCSharp_04_constantes.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_constantes\obj\Debug\net6.0\CursoCSharp_04_constantes.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_constantes\obj\Debug\net6.0\CursoCSharp_04_constantes.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_constantes\obj\Debug\net6.0\ref\CursoCSharp_04_constantes.dll

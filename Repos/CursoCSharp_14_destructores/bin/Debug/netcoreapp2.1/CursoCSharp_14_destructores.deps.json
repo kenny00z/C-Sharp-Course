@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "CursoCSharp_14_destructores/1.0.0": {
+        "runtime": {
+          "CursoCSharp_14_destructores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoCSharp_14_destructores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

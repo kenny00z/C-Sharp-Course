@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CursoCSharp_05_enumerados/1.0.0": {
+        "runtime": {
+          "CursoCSharp_05_enumerados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoCSharp_05_enumerados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

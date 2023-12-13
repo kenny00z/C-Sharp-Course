@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_12_depuracion\bin\Debug\net6.0\CursoCSharp_12_depuracion.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_12_depuracion\bin\Debug\net6.0\CursoCSharp_12_depuracion.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_12_depuracion\bin\Debug\net6.0\CursoCSharp_12_depuracion.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_12_depuracion\bin\Debug\net6.0\CursoCSharp_12_depuracion.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_12_depuracion\bin\Debug\net6.0\CursoCSharp_12_depuracion.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_12_depuracion\obj\Debug\net6.0\CursoCSharp_12_depuracion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_12_depuracion\obj\Debug\net6.0\CursoCSharp_12_depuracion.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_12_depuracion\obj\Debug\net6.0\CursoCSharp_12_depuracion.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_12_depuracion\obj\Debug\net6.0\CursoCSharp_12_depuracion.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_12_depuracion\obj\Debug\net6.0\CursoCSharp_12_depuracion.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_12_depuracion\obj\Debug\net6.0\refint\CursoCSharp_12_depuracion.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_12_depuracion\obj\Debug\net6.0\CursoCSharp_12_depuracion.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_12_depuracion\obj\Debug\net6.0\CursoCSharp_12_depuracion.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_12_depuracion\obj\Debug\net6.0\ref\CursoCSharp_12_depuracion.dll

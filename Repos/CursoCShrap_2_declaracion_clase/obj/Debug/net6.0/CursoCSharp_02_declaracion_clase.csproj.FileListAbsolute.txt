@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCShrap_2_declaracion_clase\bin\Debug\net6.0\CursoCSharp_02_declaracion_clase.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCShrap_2_declaracion_clase\bin\Debug\net6.0\CursoCSharp_02_declaracion_clase.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCShrap_2_declaracion_clase\bin\Debug\net6.0\CursoCSharp_02_declaracion_clase.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCShrap_2_declaracion_clase\bin\Debug\net6.0\CursoCSharp_02_declaracion_clase.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCShrap_2_declaracion_clase\bin\Debug\net6.0\CursoCSharp_02_declaracion_clase.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCShrap_2_declaracion_clase\obj\Debug\net6.0\CursoCSharp_02_declaracion_clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCShrap_2_declaracion_clase\obj\Debug\net6.0\CursoCSharp_02_declaracion_clase.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCShrap_2_declaracion_clase\obj\Debug\net6.0\CursoCSharp_02_declaracion_clase.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCShrap_2_declaracion_clase\obj\Debug\net6.0\CursoCSharp_02_declaracion_clase.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCShrap_2_declaracion_clase\obj\Debug\net6.0\CursoCSharp_02_declaracion_clase.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCShrap_2_declaracion_clase\obj\Debug\net6.0\refint\CursoCSharp_02_declaracion_clase.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCShrap_2_declaracion_clase\obj\Debug\net6.0\CursoCSharp_02_declaracion_clase.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCShrap_2_declaracion_clase\obj\Debug\net6.0\CursoCSharp_02_declaracion_clase.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCShrap_2_declaracion_clase\obj\Debug\net6.0\ref\CursoCSharp_02_declaracion_clase.dll

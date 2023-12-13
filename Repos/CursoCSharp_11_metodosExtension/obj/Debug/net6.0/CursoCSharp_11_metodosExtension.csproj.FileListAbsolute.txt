@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_11_metodosExtension\bin\Debug\net6.0\CursoCSharp_11_metodosExtension.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_11_metodosExtension\bin\Debug\net6.0\CursoCSharp_11_metodosExtension.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_11_metodosExtension\bin\Debug\net6.0\CursoCSharp_11_metodosExtension.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_11_metodosExtension\bin\Debug\net6.0\CursoCSharp_11_metodosExtension.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_11_metodosExtension\bin\Debug\net6.0\CursoCSharp_11_metodosExtension.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_11_metodosExtension\obj\Debug\net6.0\CursoCSharp_11_metodosExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_11_metodosExtension\obj\Debug\net6.0\CursoCSharp_11_metodosExtension.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_11_metodosExtension\obj\Debug\net6.0\CursoCSharp_11_metodosExtension.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_11_metodosExtension\obj\Debug\net6.0\CursoCSharp_11_metodosExtension.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_11_metodosExtension\obj\Debug\net6.0\CursoCSharp_11_metodosExtension.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_11_metodosExtension\obj\Debug\net6.0\refint\CursoCSharp_11_metodosExtension.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_11_metodosExtension\obj\Debug\net6.0\CursoCSharp_11_metodosExtension.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_11_metodosExtension\obj\Debug\net6.0\CursoCSharp_11_metodosExtension.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_11_metodosExtension\obj\Debug\net6.0\ref\CursoCSharp_11_metodosExtension.dll

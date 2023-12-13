@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_3_diferencias_interfaces_clasesAbstractas\bin\Debug\net6.0\CursoCsharp_3_diferencias_interfaces_clasesAbstractas.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_3_diferencias_interfaces_clasesAbstractas\bin\Debug\net6.0\CursoCsharp_3_diferencias_interfaces_clasesAbstractas.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_3_diferencias_interfaces_clasesAbstractas\bin\Debug\net6.0\CursoCsharp_3_diferencias_interfaces_clasesAbstractas.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_3_diferencias_interfaces_clasesAbstractas\bin\Debug\net6.0\CursoCsharp_3_diferencias_interfaces_clasesAbstractas.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_3_diferencias_interfaces_clasesAbstractas\bin\Debug\net6.0\CursoCsharp_3_diferencias_interfaces_clasesAbstractas.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_3_diferencias_interfaces_clasesAbstractas\obj\Debug\net6.0\CursoCsharp_3_diferencias_interfaces_clasesAbstractas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_3_diferencias_interfaces_clasesAbstractas\obj\Debug\net6.0\CursoCsharp_3_diferencias_interfaces_clasesAbstractas.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_3_diferencias_interfaces_clasesAbstractas\obj\Debug\net6.0\CursoCsharp_3_diferencias_interfaces_clasesAbstractas.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_3_diferencias_interfaces_clasesAbstractas\obj\Debug\net6.0\CursoCsharp_3_diferencias_interfaces_clasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_3_diferencias_interfaces_clasesAbstractas\obj\Debug\net6.0\CursoCsharp_3_diferencias_interfaces_clasesAbstractas.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_3_diferencias_interfaces_clasesAbstractas\obj\Debug\net6.0\refint\CursoCsharp_3_diferencias_interfaces_clasesAbstractas.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_3_diferencias_interfaces_clasesAbstractas\obj\Debug\net6.0\CursoCsharp_3_diferencias_interfaces_clasesAbstractas.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_3_diferencias_interfaces_clasesAbstractas\obj\Debug\net6.0\CursoCsharp_3_diferencias_interfaces_clasesAbstractas.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_3_diferencias_interfaces_clasesAbstractas\obj\Debug\net6.0\ref\CursoCsharp_3_diferencias_interfaces_clasesAbstractas.dll

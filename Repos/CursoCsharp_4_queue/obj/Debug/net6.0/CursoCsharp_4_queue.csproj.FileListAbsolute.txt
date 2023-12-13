@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_4_queue\bin\Debug\net6.0\CursoCsharp_4_queue.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_4_queue\bin\Debug\net6.0\CursoCsharp_4_queue.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_4_queue\bin\Debug\net6.0\CursoCsharp_4_queue.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_4_queue\bin\Debug\net6.0\CursoCsharp_4_queue.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_4_queue\bin\Debug\net6.0\CursoCsharp_4_queue.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_4_queue\obj\Debug\net6.0\CursoCsharp_4_queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_4_queue\obj\Debug\net6.0\CursoCsharp_4_queue.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_4_queue\obj\Debug\net6.0\CursoCsharp_4_queue.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_4_queue\obj\Debug\net6.0\CursoCsharp_4_queue.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_4_queue\obj\Debug\net6.0\CursoCsharp_4_queue.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_4_queue\obj\Debug\net6.0\refint\CursoCsharp_4_queue.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_4_queue\obj\Debug\net6.0\CursoCsharp_4_queue.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_4_queue\obj\Debug\net6.0\CursoCsharp_4_queue.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_4_queue\obj\Debug\net6.0\ref\CursoCsharp_4_queue.dll

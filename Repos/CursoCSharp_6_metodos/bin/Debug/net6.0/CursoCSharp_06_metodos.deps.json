@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CursoCSharp_06_metodos/1.0.0": {
+        "dependencies": {
+          "CursoCSharp_07_nivel_accesibilidad": "1.0.0"
+        },
+        "runtime": {
+          "CursoCSharp_06_metodos.dll": {}
+        }
+      },
+      "CursoCSharp_07_nivel_accesibilidad/1.0.0": {
+        "runtime": {
+          "CursoCSharp_07_nivel_accesibilidad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoCSharp_06_metodos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CursoCSharp_07_nivel_accesibilidad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

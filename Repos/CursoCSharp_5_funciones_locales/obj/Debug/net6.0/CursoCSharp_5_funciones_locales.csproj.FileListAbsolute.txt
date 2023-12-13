@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_funciones_locales\bin\Debug\net6.0\CursoCSharp_5_funciones_locales.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_funciones_locales\bin\Debug\net6.0\CursoCSharp_5_funciones_locales.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_funciones_locales\bin\Debug\net6.0\CursoCSharp_5_funciones_locales.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_funciones_locales\bin\Debug\net6.0\CursoCSharp_5_funciones_locales.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_funciones_locales\bin\Debug\net6.0\CursoCSharp_5_funciones_locales.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_funciones_locales\obj\Debug\net6.0\CursoCSharp_5_funciones_locales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_funciones_locales\obj\Debug\net6.0\CursoCSharp_5_funciones_locales.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_funciones_locales\obj\Debug\net6.0\CursoCSharp_5_funciones_locales.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_funciones_locales\obj\Debug\net6.0\CursoCSharp_5_funciones_locales.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_funciones_locales\obj\Debug\net6.0\CursoCSharp_5_funciones_locales.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_funciones_locales\obj\Debug\net6.0\refint\CursoCSharp_5_funciones_locales.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_funciones_locales\obj\Debug\net6.0\CursoCSharp_5_funciones_locales.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_funciones_locales\obj\Debug\net6.0\CursoCSharp_5_funciones_locales.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_5_funciones_locales\obj\Debug\net6.0\ref\CursoCSharp_5_funciones_locales.dll

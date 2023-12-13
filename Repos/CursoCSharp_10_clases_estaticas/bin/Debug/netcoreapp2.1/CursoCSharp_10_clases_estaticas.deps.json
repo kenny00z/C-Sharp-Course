@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "CursoCSharp_10_clases_estaticas/1.0.0": {
+        "runtime": {
+          "CursoCSharp_10_clases_estaticas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoCSharp_10_clases_estaticas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

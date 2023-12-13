@@ -1,0 +1,13 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_14_destructores\bin\Debug\netcoreapp2.1\CursoCSharp_14_destructores.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_14_destructores\bin\Debug\netcoreapp2.1\CursoCSharp_14_destructores.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_14_destructores\bin\Debug\netcoreapp2.1\CursoCSharp_14_destructores.runtimeconfig.dev.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_14_destructores\bin\Debug\netcoreapp2.1\CursoCSharp_14_destructores.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_14_destructores\bin\Debug\netcoreapp2.1\CursoCSharp_14_destructores.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_14_destructores\obj\Debug\netcoreapp2.1\CursoCSharp_14_destructores.csproj.AssemblyReference.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_14_destructores\obj\Debug\netcoreapp2.1\CursoCSharp_14_destructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_14_destructores\obj\Debug\netcoreapp2.1\CursoCSharp_14_destructores.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_14_destructores\obj\Debug\netcoreapp2.1\CursoCSharp_14_destructores.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_14_destructores\obj\Debug\netcoreapp2.1\CursoCSharp_14_destructores.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_14_destructores\obj\Debug\netcoreapp2.1\CursoCSharp_14_destructores.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_14_destructores\obj\Debug\netcoreapp2.1\CursoCSharp_14_destructores.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_14_destructores\obj\Debug\netcoreapp2.1\CursoCSharp_14_destructores.genruntimeconfig.cache

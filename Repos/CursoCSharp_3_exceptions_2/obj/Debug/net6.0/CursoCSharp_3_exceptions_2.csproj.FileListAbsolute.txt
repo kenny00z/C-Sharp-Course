@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_exceptions_2\bin\Debug\net6.0\CursoCSharp_3_exceptions_2.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_exceptions_2\bin\Debug\net6.0\CursoCSharp_3_exceptions_2.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_exceptions_2\bin\Debug\net6.0\CursoCSharp_3_exceptions_2.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_exceptions_2\bin\Debug\net6.0\CursoCSharp_3_exceptions_2.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_exceptions_2\bin\Debug\net6.0\CursoCSharp_3_exceptions_2.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_exceptions_2\obj\Debug\net6.0\CursoCSharp_3_exceptions_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_exceptions_2\obj\Debug\net6.0\CursoCSharp_3_exceptions_2.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_exceptions_2\obj\Debug\net6.0\CursoCSharp_3_exceptions_2.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_exceptions_2\obj\Debug\net6.0\CursoCSharp_3_exceptions_2.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_exceptions_2\obj\Debug\net6.0\CursoCSharp_3_exceptions_2.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_exceptions_2\obj\Debug\net6.0\refint\CursoCSharp_3_exceptions_2.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_exceptions_2\obj\Debug\net6.0\CursoCSharp_3_exceptions_2.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_exceptions_2\obj\Debug\net6.0\CursoCSharp_3_exceptions_2.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_3_exceptions_2\obj\Debug\net6.0\ref\CursoCSharp_3_exceptions_2.dll

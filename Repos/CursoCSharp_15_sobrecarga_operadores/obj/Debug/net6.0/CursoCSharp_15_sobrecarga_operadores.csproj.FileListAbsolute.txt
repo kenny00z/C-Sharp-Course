@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_15_sobrecarga_operadores\bin\Debug\net6.0\CursoCSharp_15_sobrecarga_operadores.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_15_sobrecarga_operadores\bin\Debug\net6.0\CursoCSharp_15_sobrecarga_operadores.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_15_sobrecarga_operadores\bin\Debug\net6.0\CursoCSharp_15_sobrecarga_operadores.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_15_sobrecarga_operadores\bin\Debug\net6.0\CursoCSharp_15_sobrecarga_operadores.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_15_sobrecarga_operadores\bin\Debug\net6.0\CursoCSharp_15_sobrecarga_operadores.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_15_sobrecarga_operadores\obj\Debug\net6.0\CursoCSharp_15_sobrecarga_operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_15_sobrecarga_operadores\obj\Debug\net6.0\CursoCSharp_15_sobrecarga_operadores.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_15_sobrecarga_operadores\obj\Debug\net6.0\CursoCSharp_15_sobrecarga_operadores.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_15_sobrecarga_operadores\obj\Debug\net6.0\CursoCSharp_15_sobrecarga_operadores.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_15_sobrecarga_operadores\obj\Debug\net6.0\CursoCSharp_15_sobrecarga_operadores.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_15_sobrecarga_operadores\obj\Debug\net6.0\refint\CursoCSharp_15_sobrecarga_operadores.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_15_sobrecarga_operadores\obj\Debug\net6.0\CursoCSharp_15_sobrecarga_operadores.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_15_sobrecarga_operadores\obj\Debug\net6.0\CursoCSharp_15_sobrecarga_operadores.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_15_sobrecarga_operadores\obj\Debug\net6.0\ref\CursoCSharp_15_sobrecarga_operadores.dll

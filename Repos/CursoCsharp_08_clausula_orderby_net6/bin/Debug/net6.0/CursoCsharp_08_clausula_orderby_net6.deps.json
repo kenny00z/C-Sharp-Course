@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CursoCsharp_08_clausula_orderby_net6/1.0.0": {
+        "dependencies": {
+          "CursoCSharp_02_introduccion_consultas_linq_net6": "1.0.0",
+          "CursoCSharp_05_clausula_join_net6": "1.0.0"
+        },
+        "runtime": {
+          "CursoCsharp_08_clausula_orderby_net6.dll": {}
+        }
+      },
+      "CursoCSharp_02_introduccion_consultas_linq_net6/1.0.0": {
+        "runtime": {
+          "CursoCSharp_02_introduccion_consultas_linq_net6.dll": {}
+        }
+      },
+      "CursoCSharp_05_clausula_join_net6/1.0.0": {
+        "dependencies": {
+          "CursoCSharp_02_introduccion_consultas_linq_net6": "1.0.0"
+        },
+        "runtime": {
+          "CursoCSharp_05_clausula_join_net6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoCsharp_08_clausula_orderby_net6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CursoCSharp_02_introduccion_consultas_linq_net6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CursoCSharp_05_clausula_join_net6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

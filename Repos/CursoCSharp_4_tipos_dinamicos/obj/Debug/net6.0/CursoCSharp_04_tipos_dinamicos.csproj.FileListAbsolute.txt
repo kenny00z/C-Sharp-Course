@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_tipos_dinamicos\bin\Debug\net6.0\CursoCSharp_04_tipos_dinamicos.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_tipos_dinamicos\bin\Debug\net6.0\CursoCSharp_04_tipos_dinamicos.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_tipos_dinamicos\bin\Debug\net6.0\CursoCSharp_04_tipos_dinamicos.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_tipos_dinamicos\bin\Debug\net6.0\CursoCSharp_04_tipos_dinamicos.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_tipos_dinamicos\bin\Debug\net6.0\CursoCSharp_04_tipos_dinamicos.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_tipos_dinamicos\obj\Debug\net6.0\CursoCSharp_04_tipos_dinamicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_tipos_dinamicos\obj\Debug\net6.0\CursoCSharp_04_tipos_dinamicos.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_tipos_dinamicos\obj\Debug\net6.0\CursoCSharp_04_tipos_dinamicos.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_tipos_dinamicos\obj\Debug\net6.0\CursoCSharp_04_tipos_dinamicos.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_tipos_dinamicos\obj\Debug\net6.0\CursoCSharp_04_tipos_dinamicos.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_tipos_dinamicos\obj\Debug\net6.0\refint\CursoCSharp_04_tipos_dinamicos.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_tipos_dinamicos\obj\Debug\net6.0\CursoCSharp_04_tipos_dinamicos.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_tipos_dinamicos\obj\Debug\net6.0\CursoCSharp_04_tipos_dinamicos.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_tipos_dinamicos\obj\Debug\net6.0\ref\CursoCSharp_04_tipos_dinamicos.dll

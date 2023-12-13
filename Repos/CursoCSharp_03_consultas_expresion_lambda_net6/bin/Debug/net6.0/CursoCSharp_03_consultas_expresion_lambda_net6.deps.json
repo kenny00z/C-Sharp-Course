@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CursoCSharp_03_consultas_expresion_lambda_net6/1.0.0": {
+        "runtime": {
+          "CursoCSharp_03_consultas_expresion_lambda_net6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoCSharp_03_consultas_expresion_lambda_net6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

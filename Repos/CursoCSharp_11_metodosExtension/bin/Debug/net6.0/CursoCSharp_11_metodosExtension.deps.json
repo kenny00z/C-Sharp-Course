@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CursoCSharp_11_metodosExtension/1.0.0": {
+        "runtime": {
+          "CursoCSharp_11_metodosExtension.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CursoCSharp_11_metodosExtension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

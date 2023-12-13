@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Ejercicios\Sección 5\Ejercicios5\Ejercicio4\bin\Debug\net6.0\Ejercicio4.exe
+C:\Users\kenny\Desktop\CURSO C#\Ejercicios\Sección 5\Ejercicios5\Ejercicio4\bin\Debug\net6.0\Ejercicio4.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Ejercicios\Sección 5\Ejercicios5\Ejercicio4\bin\Debug\net6.0\Ejercicio4.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Ejercicios\Sección 5\Ejercicios5\Ejercicio4\bin\Debug\net6.0\Ejercicio4.dll
+C:\Users\kenny\Desktop\CURSO C#\Ejercicios\Sección 5\Ejercicios5\Ejercicio4\bin\Debug\net6.0\Ejercicio4.pdb
+C:\Users\kenny\Desktop\CURSO C#\Ejercicios\Sección 5\Ejercicios5\Ejercicio4\obj\Debug\net6.0\Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Ejercicios\Sección 5\Ejercicios5\Ejercicio4\obj\Debug\net6.0\Ejercicio4.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Ejercicios\Sección 5\Ejercicios5\Ejercicio4\obj\Debug\net6.0\Ejercicio4.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Ejercicios\Sección 5\Ejercicios5\Ejercicio4\obj\Debug\net6.0\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Ejercicios\Sección 5\Ejercicios5\Ejercicio4\obj\Debug\net6.0\Ejercicio4.dll
+C:\Users\kenny\Desktop\CURSO C#\Ejercicios\Sección 5\Ejercicios5\Ejercicio4\obj\Debug\net6.0\refint\Ejercicio4.dll
+C:\Users\kenny\Desktop\CURSO C#\Ejercicios\Sección 5\Ejercicios5\Ejercicio4\obj\Debug\net6.0\Ejercicio4.pdb
+C:\Users\kenny\Desktop\CURSO C#\Ejercicios\Sección 5\Ejercicios5\Ejercicio4\obj\Debug\net6.0\Ejercicio4.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Ejercicios\Sección 5\Ejercicios5\Ejercicio4\obj\Debug\net6.0\ref\Ejercicio4.dll

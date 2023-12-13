@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_Paso_valor_referencia\bin\Debug\net6.0\CursoCSharp_4_Paso_valor_referencia.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_Paso_valor_referencia\bin\Debug\net6.0\CursoCSharp_4_Paso_valor_referencia.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_Paso_valor_referencia\bin\Debug\net6.0\CursoCSharp_4_Paso_valor_referencia.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_Paso_valor_referencia\bin\Debug\net6.0\CursoCSharp_4_Paso_valor_referencia.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_Paso_valor_referencia\bin\Debug\net6.0\CursoCSharp_4_Paso_valor_referencia.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_Paso_valor_referencia\obj\Debug\net6.0\CursoCSharp_4_Paso_valor_referencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_Paso_valor_referencia\obj\Debug\net6.0\CursoCSharp_4_Paso_valor_referencia.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_Paso_valor_referencia\obj\Debug\net6.0\CursoCSharp_4_Paso_valor_referencia.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_Paso_valor_referencia\obj\Debug\net6.0\CursoCSharp_4_Paso_valor_referencia.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_Paso_valor_referencia\obj\Debug\net6.0\CursoCSharp_4_Paso_valor_referencia.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_Paso_valor_referencia\obj\Debug\net6.0\refint\CursoCSharp_4_Paso_valor_referencia.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_Paso_valor_referencia\obj\Debug\net6.0\CursoCSharp_4_Paso_valor_referencia.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_Paso_valor_referencia\obj\Debug\net6.0\CursoCSharp_4_Paso_valor_referencia.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCSharp_4_Paso_valor_referencia\obj\Debug\net6.0\ref\CursoCSharp_4_Paso_valor_referencia.dll

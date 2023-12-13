@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_arrays\bin\Debug\net6.0\CursoCsharp_13_arrays.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_arrays\bin\Debug\net6.0\CursoCsharp_13_arrays.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_arrays\bin\Debug\net6.0\CursoCsharp_13_arrays.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_arrays\bin\Debug\net6.0\CursoCsharp_13_arrays.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_arrays\bin\Debug\net6.0\CursoCsharp_13_arrays.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_arrays\obj\Debug\net6.0\CursoCsharp_13_arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_arrays\obj\Debug\net6.0\CursoCsharp_13_arrays.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_arrays\obj\Debug\net6.0\CursoCsharp_13_arrays.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_arrays\obj\Debug\net6.0\CursoCsharp_13_arrays.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_arrays\obj\Debug\net6.0\CursoCsharp_13_arrays.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_arrays\obj\Debug\net6.0\refint\CursoCsharp_13_arrays.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_arrays\obj\Debug\net6.0\CursoCsharp_13_arrays.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_arrays\obj\Debug\net6.0\CursoCsharp_13_arrays.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_arrays\obj\Debug\net6.0\ref\CursoCsharp_13_arrays.dll

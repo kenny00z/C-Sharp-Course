@@ -1,0 +1,14 @@
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_Constructores\bin\Debug\net6.0\CursoCsharp_13_Constructores.exe
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_Constructores\bin\Debug\net6.0\CursoCsharp_13_Constructores.deps.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_Constructores\bin\Debug\net6.0\CursoCsharp_13_Constructores.runtimeconfig.json
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_Constructores\bin\Debug\net6.0\CursoCsharp_13_Constructores.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_Constructores\bin\Debug\net6.0\CursoCsharp_13_Constructores.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_Constructores\obj\Debug\net6.0\CursoCsharp_13_Constructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_Constructores\obj\Debug\net6.0\CursoCsharp_13_Constructores.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_Constructores\obj\Debug\net6.0\CursoCsharp_13_Constructores.AssemblyInfo.cs
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_Constructores\obj\Debug\net6.0\CursoCsharp_13_Constructores.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_Constructores\obj\Debug\net6.0\CursoCsharp_13_Constructores.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_Constructores\obj\Debug\net6.0\refint\CursoCsharp_13_Constructores.dll
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_Constructores\obj\Debug\net6.0\CursoCsharp_13_Constructores.pdb
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_Constructores\obj\Debug\net6.0\CursoCsharp_13_Constructores.genruntimeconfig.cache
+C:\Users\kenny\Desktop\CURSO C#\Repos\CursoCsharp_13_Constructores\obj\Debug\net6.0\ref\CursoCsharp_13_Constructores.dll
