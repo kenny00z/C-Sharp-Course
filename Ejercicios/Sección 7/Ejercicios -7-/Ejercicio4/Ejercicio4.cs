@@ -5,24 +5,27 @@ internal class Ejercicio4
     static void Main(string[] args)
     {
        List<int> myList = new List<int>();
-        EnterNums(myList);
-        PrintHighNum(myList);
-
-
+        List<int> myList2 = new List<int>();
+        EnterNums(myList, myList2);
+        SortNums(myList);
+        SortNums2(myList2);
+        PrintLowHighNums(myList);
+        PrintLowHighNums(myList2);
     }
     //listado que pida 10 numeros y almacene estos
-    public static void EnterNums(List<int> myList) 
+    public static void EnterNums(List<int> myList, List<int> myList2) 
     {
         Console.WriteLine("Plz introduce ten numbers :3\n\n");
-        for (int i = 0; i < 10; i++) 
+        for (int i = 0; i < 10; i++)
         {
             Console.WriteLine($"Choosing number {i + 1} of ten\n");
             myList.Add(Convert.ToInt32(Console.ReadLine()));
+            myList2.Add(myList[i]);
         }
-        
+
     }
-    //funcion que encuentre haga un sorter 
-    public static void PrintHighNum(List<int> myList)
+    //funcion que encuentre haga un sorter (bubble sort)
+    public static void SortNums(List<int> myList)
     {
         for (int i = 0; i < myList.Count - 1; i++)
         {
@@ -42,20 +45,26 @@ internal class Ejercicio4
                 break;
             }
         }
+        /*
         Console.WriteLine("\n");
         Console.WriteLine("LIST:");
         for (int i = 0; i < myList.Count; i++)
         {
             Console.WriteLine(myList[i]);
         }
+        */
     }
     //funcion pinta el numero mas bajo y mas alto 
-
-
-
-
-    //REPLICA MODO "FACIL"
-
+    public static void PrintLowHighNums(List<int> myList) 
+    {
+        Console.Write($"the lowest number is: {myList[0]}\n");
+        Console.Write($"the highest number is: {myList[myList.Count - 1]}\n");      
+    }
+    //SORT MODO "FACIL"
+    public static void SortNums2(List<int> myList) 
+    {
+        myList.Sort();
+    }
 }
 
 /*4- Crear un programa nos pida introducir 10 números enteros. 
