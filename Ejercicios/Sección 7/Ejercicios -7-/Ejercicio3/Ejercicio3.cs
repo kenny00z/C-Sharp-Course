@@ -35,7 +35,7 @@ internal class Ejercicio3
         {
             if (number % 2 == 0)
             {
-                result = result + number;
+                result += number;
             }
         }
         Console.WriteLine($"The Sum of Even Numbers is: {result}\n");
