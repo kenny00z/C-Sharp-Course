@@ -4,6 +4,6 @@ internal class Ejercicio4
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("TUS MUELAS");
     }
 }
